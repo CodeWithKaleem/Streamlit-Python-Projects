@@ -1,0 +1,4 @@
+transformers
+requests
+torch
+streamlit
